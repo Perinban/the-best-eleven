@@ -251,12 +251,12 @@ runs or successfully defend a total of 150 runs.
                        and data rejection   
                        processes            
 
-    DAX Measures and   This file contains     https://docs.google.com/spreadsheets/d/1tTe3xqlWu1wFkvoj1MioohuJs7bf1Cfh/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true
+    DAX Measures and   This file contains                            https://docs.google.com/spreadsheets/d/1tTe3xqlWu1wFkvoj1MioohuJs7bf1Cfh/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true
        Calculated      the metrics formulas 
       columns.xlsx     that are used in the 
                        project              
 
-          Data         This file contains    https://app.powerbi.com/reportEmbed?reportId=ee1d329c-33ae-4c3c-a441-4584b5e37d1b&autoAuth=true&ctid=b4b62109-b5e5-499a-a5da-97f68d962343
+          Data         This file contains                            https://app.powerbi.com/reportEmbed?reportId=ee1d329c-33ae-4c3c-a441-4584b5e37d1b&autoAuth=true&ctid=b4b62109-b5e5-499a-a5da-97f68d962343
     Visualisation.pbix the PowerBI          
                        visualization plot   
                        details for all      
