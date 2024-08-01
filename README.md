@@ -229,21 +229,22 @@ runs or successfully defend a total of 150 runs.
 
 
 5\) Other Documents
+
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   **Document Name**   **Details**                                                                      **Reference Link**
+   **Document Name**    **Details**                                                                  **Reference Link**
   -------------------- -------------------- -------------------------------------------------------------------------------------------------------------------------------------------
-     t20_csv_files     This folder contains                            https://drive.google.com/drive/folders/104h0Epc5-5VLfSKy-WogzkwuAHIT0K5q?usp=sharing
+     t20_csv_files     This folder contains       https://drive.google.com/drive/folders/104h0Epc5-5VLfSKy-WogzkwuAHIT0K5q?usp=sharing
                        the final csv files  
                        that are used in the 
                        visualisation        
 
-     t20_json_files    This folder contains                            https://drive.google.com/drive/folders/1tj3f60kqkleOtJoc6fe93k8wnPpjYD-t?usp=sharing
+     t20_json_files    This folder contains       https://drive.google.com/drive/folders/1tj3f60kqkleOtJoc6fe93k8wnPpjYD-t?usp=sharing
                        the source json      
                        files that are used  
                        as part of this      
                        analysis             
 
-    Source Code.ipynb  This file contains                                                                       \-
+    Source Code.ipynb  This file contains                                                  \-
                        the Python source    
                        code of data         
                        wrangling, data      
@@ -251,12 +252,12 @@ runs or successfully defend a total of 150 runs.
                        and data rejection   
                        processes            
 
-    DAX Measures and   This file contains                            https://docs.google.com/spreadsheets/d/1tTe3xqlWu1wFkvoj1MioohuJs7bf1Cfh/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true
+    DAX Measures and   This file contains       https://docs.google.com/spreadsheets/d/1tTe3xqlWu1wFkvoj1MioohuJs7bf1Cfh/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true
        Calculated      the metrics formulas 
       columns.xlsx     that are used in the 
                        project              
 
-          Data         This file contains                            https://app.powerbi.com/reportEmbed?reportId=ee1d329c-33ae-4c3c-a441-4584b5e37d1b&autoAuth=true&ctid=b4b62109-b5e5-499a-a5da-97f68d962343
+          Data         This file contains       https://app.powerbi.com/reportEmbed?reportId=ee1d329c-33ae-4c3c-a441-4584b5e37d1b&autoAuth=true&ctid=b4b62109-b5e5-499a-a5da-97f68d962343
     Visualisation.pbix the PowerBI          
                        visualization plot   
                        details for all      
