@@ -1,5 +1,46 @@
 <h1> THE BEST ELEVEN </h1>
 
+<h3>Data Sources</h3>
+
+<table border="0" cellpadding="0" cellspacing="0" width="733" style="">
+  <thead>
+    <tr height="45" style="height: 34pt;">
+      <th>Document Name</th>
+      <th>Details</th>
+      <th>Reference Link</th>
+    </tr>
+  </thead><colgroup><col width="297" style="width: 223pt;"><col width="328" style="width: 246pt;"><col width="108" style="width: 81pt;"></colgroup>
+  <tbody>
+    <tr height="45" style="height: 34pt;">
+      <td height="45" class="xl63" width="297" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: none; text-align: center; height: 34pt; width: 223pt;">t20_csv_files</td>
+      <td class="xl63" width="328" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 246pt;">This folder contains the final csv files that are used in visualisation</td>
+      <td class="xl63" width="108" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 81pt;"><img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/google_drive_hero_1200_675.png" width="60" height="40"/></td>
+    </tr>
+    <tr height="45" style="height: 34pt;">
+      <td height="45" class="xl63" width="297" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: none; text-align: center; height: 34pt; width: 223pt;">t20_json_files</td>
+      <td class="xl63" width="328" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 246pt;">This folder contains the source json files that are used as part of this analysis</td>
+      <td class="xl63" width="108" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 81pt;"><img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/google_drive_hero_1200_675.png" width="60" height="40"/></td>
+    </tr>
+    <tr height="68" style="height: 51pt;">
+      <td height="68" class="xl63" width="297" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: none; text-align: center; height: 51pt; width: 223pt;">Source Code.ipynb</td>
+      <td class="xl63" width="328" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 246pt;">This file contains the Python source code of data wrangling, data loading to tables and data rejection process</td>
+      <td class="xl63" width="108" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 81pt;">-</td>
+    </tr>
+    <tr height="45" style="height: 34pt;">
+      <td height="45" class="xl63" width="297" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: none; text-align: center; height: 34pt; width: 223pt;">DAX Measures and Calculated Columns.xlsx</td>
+      <td class="xl63" width="328" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 246pt;">This file contains the metrics formulas that are used in the Project</td>
+      <td class="xl63" width="108" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 81pt;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPrK-y05cfo5GM1Pg55QJLLirq54AByCaozg&s" width="50" height="30"/></td>
+    </tr>
+    <tr height="45" style="height: 34pt;">
+      <td height="45" class="xl63" width="297" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: none; text-align: center; height: 34pt; width: 223pt;">Data Visualisation.pbix</td>
+      <td class="xl63" width="328" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 246pt;">This file contains the PowerBI visualisation plot details for all results</td>
+      <td class="xl63" width="108" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 81pt;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="60" height="40"/></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+
 *Abstract*--- The findings of this report are based on the data analysis
 of T20 World Cup through statistical methods and data visualization.
 Cricketing performance indicators include batting and bowling, match
@@ -226,41 +267,4 @@ runs or successfully defend a total of 150 runs.
 
 4.  [Predicting Optimal Cricket Team using Data
     Analysis](https://ieeexplore.ieee.org/document/9396861).
-
-
-5\) Other Documents
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   **Document Name**    **Details**                                                                  **Reference Link**
-  -------------------- -------------------- -------------------------------------------------------------------------------------------------------------------------------------------
-     t20_csv_files     This folder contains       https://drive.google.com/drive/folders/104h0Epc5-5VLfSKy-WogzkwuAHIT0K5q?usp=sharing
-                       the final csv files  
-                       that are used in the 
-                       visualisation        
-
-     t20_json_files    This folder contains       https://drive.google.com/drive/folders/1tj3f60kqkleOtJoc6fe93k8wnPpjYD-t?usp=sharing
-                       the source json      
-                       files that are used  
-                       as part of this      
-                       analysis             
-
-    Source Code.ipynb  This file contains                                                  \-
-                       the Python source    
-                       code of data         
-                       wrangling, data      
-                       loading to tables    
-                       and data rejection   
-                       processes            
-
-    DAX Measures and   This file contains       https://docs.google.com/spreadsheets/d/1tTe3xqlWu1wFkvoj1MioohuJs7bf1Cfh/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true
-       Calculated      the metrics formulas 
-      columns.xlsx     that are used in the 
-                       project              
-
-          Data         This file contains       https://app.powerbi.com/reportEmbed?reportId=ee1d329c-33ae-4c3c-a441-4584b5e37d1b&autoAuth=true&ctid=b4b62109-b5e5-499a-a5da-97f68d962343
-    Visualisation.pbix the PowerBI          
-                       visualization plot   
-                       details for all      
-                       results.             
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
